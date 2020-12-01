@@ -5,18 +5,20 @@
 
 Computation times
 =================
-**00:18.610** total execution time for **tutorials** files:
+**00:26.583** total execution time for **tutorials** files:
 
 +-------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_tutorials_coastlines.py` (``coastlines.py``)       | 00:04.600 | 0.0 MB |
+| :ref:`sphx_glr_tutorials_contour-map.py` (``contour-map.py``)     | 00:07.608 | 0.0 MB |
 +-------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_tutorials_text.py` (``text.py``)                   | 00:04.407 | 0.0 MB |
+| :ref:`sphx_glr_tutorials_coastlines.py` (``coastlines.py``)       | 00:04.660 | 0.0 MB |
 +-------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_tutorials_plot.py` (``plot.py``)                   | 00:03.350 | 0.0 MB |
+| :ref:`sphx_glr_tutorials_text.py` (``text.py``)                   | 00:04.489 | 0.0 MB |
 +-------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_tutorials_frames.py` (``frames.py``)               | 00:02.910 | 0.0 MB |
+| :ref:`sphx_glr_tutorials_plot.py` (``plot.py``)                   | 00:03.408 | 0.0 MB |
 +-------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_tutorials_first-figure.py` (``first-figure.py``)   | 00:01.741 | 0.0 MB |
+| :ref:`sphx_glr_tutorials_frames.py` (``frames.py``)               | 00:02.975 | 0.0 MB |
 +-------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_tutorials_configuration.py` (``configuration.py``) | 00:01.602 | 0.0 MB |
+| :ref:`sphx_glr_tutorials_first-figure.py` (``first-figure.py``)   | 00:01.777 | 0.0 MB |
++-------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_tutorials_configuration.py` (``configuration.py``) | 00:01.665 | 0.0 MB |
 +-------------------------------------------------------------------+-----------+--------+
